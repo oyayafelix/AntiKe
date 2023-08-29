@@ -1,0 +1,59 @@
+{
+    "featuredProducts":[
+        {   "id":0,
+            "image":"./Assets/images/anty/pot1.jpg",
+            "brand":"Antique",
+            "type":"Cup shaped clay Pot",
+            "price":45
+        },
+        {   
+            "id":1,
+            "image":"./Assets/images/anty/pot2.jpg",
+            "brand":"Souvenir",
+            "type":"Jam Nakam Vase",
+            "price":45.9
+        },
+        {   
+            "id":2,
+            "image":"./Assets/images/anty/pot3.jpg",
+            "brand":"Antique",
+            "type":"Scavenger Vase",
+            "price":304.09
+        },
+        {   
+            "id":3,
+            "image":"./Assets/images/anty/pot4.jpg",
+            "brand":"Antique",
+            "type":"Rastaman walking pot",
+            "price":98.9
+        },
+        {   
+            "id":4,
+            "image":"./Assets/images/anty/pot5.jpg",
+            "brand":"Antique",
+            "type":"Dancing Pot Edition 4",
+            "price":46.09
+        },
+        {   
+            "id":5,
+            "image":"./Assets/images/anty/pot6.jpg",
+            "brand":"Antique",
+            "type":"One Pot Standing",
+            "price":34.05
+        },
+        {   
+            "id":6,
+            "image":"./Assets/images/anty/pot7.jpg",
+            "brand":"Antique",
+            "type":"Sitting Elephant Pot",
+            "price":45.00099
+        },
+        {   
+            "id":7,
+            "image":"./Assets/images/anty/pot8.jpg",
+            "brand":"Souvenir",
+            "type":"Limited Edition Pot",
+            "price":"Treasure Hunt"
+        }
+    ]
+}
