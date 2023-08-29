@@ -319,11 +319,13 @@
 }
 
 .deal-card:nth-child(1){
-    background-image:url("../images/banner/b17.jpg");
+    background-image:url("../images/banner/high-view-cassette-tape-with-pencil.jpg");
+    background-size: cover;
 }
 
 .deal-card:nth-child(2){
-    background-image:url("../images/banner/b10.jpg");
+    background-image:url("../images/banner/main2.jpg");
+    background-size: cover;
 }
 
 .deal-card h2{
@@ -370,19 +372,24 @@
 }
 
 .offer-card:nth-child(1){
-    background-image:url("../images/banner/b7.jpg");
+    background-image:url("../images/banner/old.jpg");
     background-size:cover;
     width:270px;
 }
 
 .offer-card:nth-child(2){
-    background-image:url("../images/banner/b4.jpg");
+    background-image:url("../images/banner/ele.jpg");
     background-size: cover;
     width:350px;
 }
 
 .offer-card:nth-child(3){
-    background-image:url("../images/banner/b18.jpg");
+    background-image:url("../images/banner/book.jpg");
+    background-size: cover;
+    width:270px;;
+}
+.offer-card:nth-child(4){
+    background-image:url("../images/banner/car2.jpg");
     background-size: cover;
     width:270px;;
 }
@@ -457,6 +464,7 @@
     display:flex;
     flex-direction:column;
     justify-content: space-around;
+    
 }
 .footer-card h3{
     font-size:20px;
@@ -478,6 +486,7 @@
     display:flex;
     flex-direction: column;
     justify-content: space-around;
+    
 }
 
 .footer-contact img{
